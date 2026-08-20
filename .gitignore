@@ -1,0 +1,6 @@
+*.pcap
+pcaps_data/
+.venv
+__pycache__
+model/
+build/

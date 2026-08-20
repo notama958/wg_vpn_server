@@ -1,0 +1,7 @@
+[requires]
+onnxruntime/1.24.4
+pcapplusplus/25.05
+
+[generators]
+CMakeDeps
+CMakeToolchain
